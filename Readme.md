@@ -1,4 +1,4 @@
-I successfully completed the comprehensive Computer Vision Course Tutorials, where I delved into a wide array of crucial concepts and techniques in the field of computer vision. The tutorials covered image processing basics, feature detection, and video stabilization. I gained practical skills in tasks like edge and corner detection, image alignment, and object recognition. This experience has provided me with a solid foundation in computer vision.
+These tutorials comprises exercise done in the course of Computer vision tutorial series taken by Ms. Daniela Markov Vetter . Through these tutorials I learned a wide array of crucial concepts and techniques in the field of computer vision. The tutorials covered image processing basics, feature detection, and video stabilization. I gained practical skills in tasks like edge and corner detection, image alignment, and object recognition. This experience has provided me with a solid foundation in computer vision.
 
 Credits: "Prof. Oliver Staadt and Daniela Markov Vetter" (University of Rostock, Institute for Visual and Analytic Computing)
 
